@@ -1,13 +1,12 @@
 # ⏳ Time Series Analysis of Air Quality (NO₂)
 
-This project applies advanced time series analysis techniques to air quality data, specifically focusing on NO₂ concentration levels collected over multiple years. The objective is to explore patterns, detect seasonality, and forecast future pollution levels using statistical models like ARIMA and machine learning-based approaches like Facebook Prophet.
+This project applies advanced time series analysis techniques to air quality data, specifically focusing on NO₂ concentration levels collected over multiple years. The objective is to explore patterns, detect seasonality, and forecast future pollution levels using statistical models like ARIMA.
 
 ## 📌 Key Features
 - Time series decomposition (trend, seasonality, residuals)
 - Rolling statistics for stationarity checks
 - Variance stabilization using log, square root, and Box-Cox transformations
-- Forecasting using ARIMA and Prophet models
-- Anomaly detection using Z-score and IQR methods
+- Forecasting using ARIMA.
 - Visualizations of year-wise trends and monthly patterns
 
 ## 📁 Dataset
