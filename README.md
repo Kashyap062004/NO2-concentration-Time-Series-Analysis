@@ -15,7 +15,7 @@ The dataset includes timestamped NO₂ concentration values obtained from open g
 ## 📊 Tools & Libraries
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 - Statsmodels, Scikit-learn
-- Facebook Prophet
+- Augmented Dickey-Fuller test
 - SciPy for statistical testing
 
 ## 🎯 Outcomes
